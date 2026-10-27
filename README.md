@@ -52,7 +52,9 @@ The collector can then release at most 30,000 to School fees and at most 10,000 
 
 ## High-level design
 
-![Collection Point high-level design](images/Collection Point HLD.png)
+![Collection Point high-level design](images/Collection%20Point%20HLD.png)
+
+
 
 | Component | Owns |
 | --- | --- |
